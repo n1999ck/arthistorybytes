@@ -12,7 +12,9 @@ The World Wide Web exploded onto the scene in 1995 - the dawn of the Information
 
 With those weighty ideas set out, I can move to the actual article. This began as an assignment to create a presentation about a programming language. I chose JavaScript because I’m a web developer, and decided to match topics with pieces of historic art because I’m also an art historian. I had a blast finding some pretty esoteric connections, so now I’m writing them out to share.
 
-## Part 1: JavaScript 
+<!--more-->
+
+## Part 1: JavaScript
 ### Alphonse Mucha, Untitled
 
 We start with some pretty literal takes on the topic: ladies holding coffee.
